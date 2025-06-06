@@ -31,10 +31,10 @@ By synthesizing scientific literature and progressively improving my CAD skills,
 **Technical Writing:** Crafting clear, impactful research communications.
 
 ## 💡 Highlights and Unique Impact
-**Digital-first design:** Enables innovative engineering solutions by removing physical limitations and allowing rapid iteration.
-**Evidence-driven approach:** Builds on the latest scientific findings and quantitative analysis to inform design choices.
-**Open and reproducible:** All referenced data, notes, and designs from trusted sources are compiled and shared openly to promote transparency and encourage collaboration.
-**Practical innovation:** Combines theoretical insights with engineering principles to develop solutions that address real-world environmental challenges.
+- **Digital-first design:** Enables innovative engineering solutions by removing physical limitations and allowing rapid iteration.
+- **Evidence-driven approach:** Builds on the latest scientific findings and quantitative analysis to inform design choices.
+- **Open and reproducible:** All referenced data, notes, and designs from trusted sources are compiled and shared openly to promote transparency and encourage collaboration.
+- **Practical innovation:** Combines theoretical insights with engineering principles to develop solutions that address real-world environmental challenges.
 
 ## 🙌 Gratitude & Collaboration
 I extend heartfelt thanks to the researchers whose work lights the path forward, and to the communities behind AutoCAD and open scientific resources. I invite collaboration, feedback, and conversation—together we can amplify impact!
