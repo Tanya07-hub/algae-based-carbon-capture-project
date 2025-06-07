@@ -21,7 +21,7 @@ By synthesizing scientific literature and progressively improving my CAD skills,
 | `/Notes`              | Synthesized findings from scientific papers and the carbon capture course by the University of Edinburgh                  |
 | `/Visuals`            | Diagrams, sketches and graphs interpretation for the bioreactor concept       |
 | `/ResearchPapers`     | Collection of key scientific articles and references          |
-| `/Summary`            | Concise overview, conclusions and reflection drawn from the research    |
+| `/Summary`            | Concise daily overview, conclusions and reflection drawn from the research    |
 | `README.md`           | This project overview and guide - this very page                             |
 
 ## 🛠 Tools of Innovation
