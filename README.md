@@ -8,7 +8,7 @@ This **6-week self-paced** journey combines AutoCAD modeling with scientific res
 By synthesizing scientific literature and progressively improving my CAD skills, this project aims to turn ideas into practical engineering concepts — paving the way for future innovation.
 
 ## 🌍 Why it matters
- - **30+ billion tons of CO₂** spewed into our atmosphere annually, fueling climate crises.
+ - **30+ billion tons of CO₂** is spewed into our atmosphere annually, fueling climate crises.
  - Millions suffer from **polluted water sources**, threatening health and livelihoods.
  - Existing carbon capture methods are often costly and centralized, limiting accessibility.
  - This project bridges cutting-edge research with practical engineering design to advance this promising technology.
