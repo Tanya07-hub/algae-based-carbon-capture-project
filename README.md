@@ -25,10 +25,10 @@ By synthesizing scientific literature and progressively improving my CAD skills,
 | `README.md`           | This project overview and guide - this very page                             |
 
 ## 🛠 Tools of Innovation
-**AutoCAD:** Precision digital modeling that turns ideas into engineered reality.
-**Scientific Literature:** In-depth analysis of relevant research papers to guide data-driven design choices.
-**Mathematical Analysis:** Using Chemical Engineering principles and calculations to verify design assumptions and quantify expected outcomes.
-**Technical Writing:** Crafting clear, impactful research communications.
+- **AutoCAD:** Precision digital modeling that turns ideas into engineered reality.
+- **Scientific Literature:** In-depth analysis of relevant research papers to guide data-driven design choices.
+- **Mathematical Analysis:** Using Chemical Engineering principles and calculations to verify design assumptions and quantify expected outcomes.
+- **Technical Writing:** Crafting clear, impactful research communications.
 
 ## 💡 Highlights and Unique Impact
 - **Digital-first design:** Enables innovative engineering solutions by removing physical limitations and allowing rapid iteration.
