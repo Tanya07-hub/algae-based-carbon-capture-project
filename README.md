@@ -1,4 +1,4 @@
-# Designing a Digital Algae Bioreactor for Carbon Capture & Water Purification  
+# Green Tech for All: Affordable Algae Bioreactors Tackling CO₂ & Clean Water in Low-Income Zones
 *Bridging Science and Engineering for a Greener Future*
 
 ## 🚀 Project Overview
