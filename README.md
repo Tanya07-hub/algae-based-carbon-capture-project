@@ -22,7 +22,7 @@ By synthesizing scientific literature and progressively improving my CAD skills,
 | `/Visuals`            | Diagrams, sketches and graphs interpretation for the bioreactor concept       |
 | `/ResearchPapers`     | Collection of key scientific articles and references          |
 | `/Summary`            | Concise daily overview, conclusions and reflection drawn from the research    |
-| `README.md`           | This project overview and guide - this very page                             |
+| `README.md`           | The project overview and guide - this very page                             |
 
 ## 🛠 Tools of Innovation
 - **AutoCAD:** Precision digital modeling that turns ideas into engineered reality.
