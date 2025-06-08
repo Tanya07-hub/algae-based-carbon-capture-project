@@ -46,7 +46,7 @@ I extend heartfelt thanks to the researchers whose work lights the path forward,
 ## 🌿 Join Me on This Quest
 Thank you for exploring this project! Let’s inspire innovation rooted in nature and science — because the future belongs to those who design it.
 
-**Last Updated: 6th June 2025**
+**Last Updated: 8th June 2025**
 
 
 
