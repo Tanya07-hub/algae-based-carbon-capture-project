@@ -58,13 +58,13 @@ This project merges climate science and engineering design to reimagine carbon c
 
 I extend heartfelt thanks to the researchers whose work lights the path forward, and to the communities behind AutoCAD and open scientific resources. I invite collaboration, feedback, and conversation—together we can amplify impact!
 
-You can follow my ongoing work and project updates on my GitHub: github.com/Tanya07-hub
-I blog weekly about my research journey and reflections — check it out here:
- carboncaptureblog3.wordpress.com
+## Reach out to connect or collaborate
 
-Reach out to connect or collaborate:
- tanyasingh.mokashi@unb.ca
- LinkedIn: Tanyasingh Mokash
+[tanyasingh.mokashi@unb.ca](mailto:tanyasingh.mokashi@unb.ca)  
+[LinkedIn: Tanyasingh Mokashi](https://www.linkedin.com/in/tanyasinghmokashi)
+I blog weekly about my research journey and reflections — check it out here:  
+🌐 [Welcome to my Algae-Based Carbon Capture & Water Purification Journey](https://carboncaptureblog3.wordpress.com/2025/06/09/welcome-to-my-algae-based-carbon-capture-water-purification-journey/)
+
 
 ## 🔭 Future Work: Scaling the Vision
 
