@@ -38,7 +38,7 @@ This project merges climate science and engineering design to reimagine carbon c
 
 ## 🛠 Tools of Innovation
 
-- **AutoCAD** – For precise digital modeling of photobioreactor concepts  
+- **AutoCAD** - For precise digital modeling of photobioreactor concepts  
 - **Scientific Literature** – Used to anchor ideas in current research and best practices  
 - **Mathematical Analysis** – Applying chemical engineering principles to assess feasibility and impact  
 - **Technical Writing** – For communicating complex ideas clearly and effectively  
