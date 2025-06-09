@@ -21,7 +21,7 @@ By synthesizing scientific literature and progressively improving my CAD skills,
 | `/Notes`             | Synthesized notes from scientific papers and the *Carbon Capture* course (University of Edinburgh)                              |
 | `/Sketches`          | All rough and finalized hand-drawn or digital concept sketches for the bioreactor setup                                         |
 | `/Visuals`           | Diagrams, system layouts, and graph interpretations based on data and design                                                    |
-| `/ResearchPapers`    | Curated collection of scientific articles and literature references relevant to algae-based carbon capture and photobioreactors |
+ capture and photobioreactors |
 | `/Summary`           | Concise daily overviews, key conclusions, and reflective insights gathered throughout the research                              |
 | `README.md`          | Project overview and guide — this document. Contains scope, methodology, and directory roadmap                                  |
 ## 🛠 Tools of Innovation
