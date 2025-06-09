@@ -15,15 +15,15 @@ By synthesizing scientific literature and progressively improving my CAD skills,
 
 ## 🔍 What you will discover here
 
-| **Path**             | **Description**                                                                                                                 |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| `/Week1` to `/Week6` | Daily and weekly research updates, personal reflections, and design progression                                                 |
-| `/Notes`             | Synthesized notes from scientific papers and the *Carbon Capture* course (University of Edinburgh)                              |
-| `/Sketches`          | All rough and finalized hand-drawn or digital concept sketches for the bioreactor setup                                         |
-| `/Visuals`           | Diagrams, system layouts, and graph interpretations based on data and design                                                    |
- capture and photobioreactors |
-| `/Summary`           | Concise daily overviews, key conclusions, and reflective insights gathered throughout the research                              |
-| `README.md`          | Project overview and guide — this document. Contains scope, methodology, and directory roadmap                                  |
+| Path         | Description                                                                                     |
+|--------------|-------------------------------------------------------------------------------------------------|
+| `/Week1` to `/Week6` | Daily and weekly research updates, personal reflections, and documentation of design progression |
+| `/Notes`     | Synthesized notes from scientific papers and the Carbon Capture course (University of Edinburgh) |
+| `/Sketches`  | Rough and finalized concept sketches — both hand-drawn and digital — for the bioreactor setup    |
+| `/Visuals`   | Diagrams, system layouts, and graph interpretations related to carbon capture and photobioreactors |
+| `/Summary`   | Concise daily overviews, key conclusions, and reflective insights from the research process       |
+| `README.md`  | Project overview and guide, including the scope, methodology, and directory structure roadmap     |
+
 ## 🛠 Tools of Innovation
 - **AutoCAD:** Precision digital modeling that turns ideas into engineered reality.
 - **Scientific Literature:** In-depth analysis of relevant research papers to guide data-driven design choices.
