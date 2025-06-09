@@ -58,11 +58,13 @@ This project merges climate science and engineering design to reimagine carbon c
 
 I extend heartfelt thanks to the researchers whose work lights the path forward, and to the communities behind AutoCAD and open scientific resources. I invite collaboration, feedback, and conversation—together we can amplify impact!
 
-Reach out to connect or collaborate:
-- [tanyasingh.mokashi@unb.ca](mailto:tanyasingh.mokashi@unb.ca)  
--  [LinkedIn: Tanyasingh Mokashi](https://www.linkedin.com/in/tanyasinghmokashi)
+You can follow my ongoing work and project updates on my GitHub: github.com/Tanya07-hub
+I blog weekly about my research journey and reflections — check it out here:
+ carboncaptureblog3.wordpress.com
 
----
+Reach out to connect or collaborate:
+ tanyasingh.mokashi@unb.ca
+ LinkedIn: Tanyasingh Mokash
 
 ## 🔭 Future Work: Scaling the Vision
 
