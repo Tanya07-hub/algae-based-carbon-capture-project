@@ -1,52 +1,89 @@
 # Green Tech for All: Affordable Algae Bioreactors Tackling CO₂ & Clean Water in Low-Income Zones
 *Bridging Science and Engineering for a Greener Future*
 
-## 🚀 Project Overview
-What if we could harness nature’s own engineers — algae — to fight climate change and clean our water, all through cutting-edge design and research?
-This **6-week self-paced** journey combines AutoCAD modeling with scientific research. Instead of building physical hardware, I am creating a **digital prototype** inspired by current studies, carefully analyzing and refining bioreactor designs to enhance carbon capture and water purification potential.
+---
 
-By synthesizing scientific literature and progressively improving my CAD skills, this project aims to turn ideas into practical engineering concepts — paving the way for future innovation.
+## 🌍 Project Overview
 
-## 🌍 Why it matters
- - **30+ billion tons of CO₂** is spewed into our atmosphere annually, fueling climate crises.
- - Millions suffer from **polluted water sources**, threatening health and livelihoods.
- - Existing carbon capture methods are often costly and centralized, limiting accessibility.
- - This project bridges cutting-edge research with practical engineering design to advance this promising technology.
+What if we could harness nature’s own engineers — **algae** — to fight climate change and clean water supplies through sustainable design?
 
-## 🔍 What you will discover here
+This self-directed, 6-week research journey blends **AutoCAD modeling**, **chemical engineering principles**, and **scientific literature** to explore the potential of algae-based photobioreactors for **carbon capture and water purification**.
 
-| Path         | Description                                                                                     |
-|--------------|-------------------------------------------------------------------------------------------------|
-| `/Week1` to `/Week6` | Daily and weekly research updates, personal reflections, and documentation of design progression |
-| `/Notes`     | Synthesized notes from scientific papers and the Carbon Capture course (University of Edinburgh) |
-| `/Sketches`  | Rough and finalized concept sketches — both hand-drawn and digital — for the bioreactor setup    |
-| `/Visuals`   | Diagrams, system layouts, and graph interpretations related to carbon capture and photobioreactors |
-| `/Summary`   | Concise daily overviews, key conclusions, and reflective insights from the research process       |
-| `README.md`  | Project overview and guide, including the scope, methodology, and directory structure roadmap     |
+Rather than building physical hardware, I develop a **digital prototype** inspired by current studies — analyzing and iterating on designs to make these systems more accessible, affordable, and effective.
+
+---
+
+## 🚀 Why It Matters
+
+- **30+ billion tons** of CO₂ enter our atmosphere annually, driving climate change.  
+- **Millions** lack access to clean water, threatening health and equity.  
+- **Current carbon capture systems** are costly and centralized — often inaccessible in vulnerable regions.
+
+This project merges climate science and engineering design to reimagine carbon capture technology through a lens of **accessibility, affordability, and impact**.
+
+---
+
+## 🔍 What You'll Find in This Repository
+
+| Path              | Description                                                                 |
+|-------------------|-----------------------------------------------------------------------------|
+| `/Week1` to `/Week6` | Daily and weekly research updates, personal reflections, and design progression |
+| `/Notes`          | Synthesized notes from scientific papers and the Carbon Capture course (University of Edinburgh) |
+| `/Sketches`       | Rough and finalized concept sketches — hand-drawn and digital — for bioreactor development |
+| `/Visuals`        | Diagrams, system layouts, and data-driven graphs related to CO₂ capture and photobioreactor efficiency |
+| `/Summary`        | Concise daily overviews, key findings, and reflective insights |
+| `README.md`       | This project overview, roadmap, and guide |
+
+---
 
 ## 🛠 Tools of Innovation
-- **AutoCAD:** Precision digital modeling that turns ideas into engineered reality.
-- **Scientific Literature:** In-depth analysis of relevant research papers to guide data-driven design choices.
-- **Mathematical Analysis:** Using Chemical Engineering principles and calculations to verify design assumptions and quantify expected outcomes.
-- **Technical Writing:** Crafting clear, impactful research communications.
 
-## 💡 Highlights and Unique Impact
-- **Digital-first design:** Enables innovative engineering solutions by removing physical limitations and allowing rapid iteration.
-- **Evidence-driven approach:** Builds on the latest scientific findings and quantitative analysis to inform design choices.
-- **Open and reproducible:** All referenced data, notes, and designs from trusted sources are compiled and shared openly to promote transparency and encourage collaboration.
-- **Practical innovation:** Combines theoretical insights with engineering principles to develop solutions that address real-world environmental challenges.
+- **AutoCAD** – For precise digital modeling of photobioreactor concepts  
+- **Scientific Literature** – Used to anchor ideas in current research and best practices  
+- **Mathematical Analysis** – Applying chemical engineering principles to assess feasibility and impact  
+- **Technical Writing** – For communicating complex ideas clearly and effectively  
+
+---
+
+## 💡 Highlights & Unique Impact
+
+-  **Digital-first design** – Enables flexible, iterative engineering development without physical barriers  
+- **Evidence-driven approach** – Grounded in peer-reviewed research and scientific methodology  
+- **Open and reproducible** – All notes, data, and design ideas are openly shared to support collaboration  
+-  **Real-world relevance** – Tackles environmental challenges through an interdisciplinary, practical lens  
+
+---
 
 ## 🙌 Gratitude & Collaboration
+
 I extend heartfelt thanks to the researchers whose work lights the path forward, and to the communities behind AutoCAD and open scientific resources. I invite collaboration, feedback, and conversation—together we can amplify impact!
 
-## Reach out via:
-- ✉️ : tanyasingh.mokashi@unb.ca
-- 🔗 : www.linkedin.com/in/tanyasinghmokashi
+Reach out to connect or collaborate:
+- [tanyasingh.mokashi@unb.ca](mailto:tanyasingh.mokashi@unb.ca)  
+-  [LinkedIn: Tanyasingh Mokashi](https://www.linkedin.com/in/tanyasinghmokashi)
 
-## 🌿 Join Me on This Quest
-Thank you for exploring this project! Let’s inspire innovation rooted in nature and science — because the future belongs to those who design it.
+---
 
-**Last Updated: 8th June 2025**
+## 🔭 Future Work: Scaling the Vision
+
+This project remains digital and independently led, but the vision continues to grow. With more resources, I am exploring ways to:
+
+- **Prototype Testing**: Build small-scale models to test CO₂ absorption and water purification under real-world conditions.  
+- **Sensor Integration**: Incorporate low-cost sensors and microcontrollers (e.g., Arduino) for real-time monitoring and optimization.  
+- **Species Selection**: Investigate algal strains suited to different climates and pollution types.  
+- **Simulation Tools**: Use software like CFD or MATLAB to refine flow, light, and gas transfer designs.  
+- **Deployment Potential**: Develop modular or mobile bioreactor units for low-resource areas or urban rooftops.
+
+> *Although currently unfunded, these efforts guide the ongoing mission to make green technology accessible, scalable, and impactful.*
+
+---
+
+## 🌱 Join Me on This Quest
+
+Thank you for exploring this initiative. Let’s keep designing climate solutions that are rooted in science, driven by purpose, and accessible to all — because **the future belongs to those who build it.**
+
+_Last Updated: June 9, 2025_
+
 
 
 
