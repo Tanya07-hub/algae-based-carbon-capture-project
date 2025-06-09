@@ -68,8 +68,7 @@ Reach out to connect or collaborate:
 
 This project remains digital and independently led, but the vision continues to grow. With more resources, I am exploring ways to:
 
-- **Prototype Testing**: Build small-scale models to test CO₂ absorption and water purification under real-world conditions.  
-- **Sensor Integration**: Incorporate low-cost sensors and microcontrollers (e.g., Arduino) for real-time monitoring and optimization.  
+- **Prototype Testing**: Build small-scale models to test CO₂ absorption and water purification under real-world conditions.    
 - **Species Selection**: Investigate algal strains suited to different climates and pollution types.  
 - **Simulation Tools**: Use software like CFD or MATLAB to refine flow, light, and gas transfer designs.  
 - **Deployment Potential**: Develop modular or mobile bioreactor units for low-resource areas or urban rooftops.
