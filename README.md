@@ -62,6 +62,7 @@ I extend heartfelt thanks to the researchers whose work lights the path forward,
 
 [tanyasingh.mokashi@unb.ca](mailto:tanyasingh.mokashi@unb.ca)  
 [LinkedIn: Tanyasingh Mokashi](https://www.linkedin.com/in/tanyasinghmokashi)
+
 I blog weekly about my research journey and reflections — check it out here:  
 🌐 [Welcome to my Algae-Based Carbon Capture & Water Purification Journey](https://carboncaptureblog3.wordpress.com/2025/06/09/welcome-to-my-algae-based-carbon-capture-water-purification-journey/)
 
