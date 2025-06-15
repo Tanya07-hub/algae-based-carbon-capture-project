@@ -1,0 +1,33 @@
+Day5 Log - Summary
+
+What I Did Today:
+
+- Designed a single bioreactor unit to support 4 small homes (16 people total).
+- Set Key Design Assumptions:
+-- Daily Wastewater Flow (Q): 2,400 Liters/day.
+-- Influent Phosphorus (P_in) & Nitrogen (N_in) Concentrations (your chosen numbers, e.g., 8 mg/L P, 40 mg/L N).
+-- Target Removal Efficiency (your chosen percentage, e.g., 90%).
+-- Confirmed HRT (6.5 days) and P Uptake Rate (45.16 mg P L⁻¹ d⁻¹).
+-- Reconfirmed Algae Carbon Content (~50%).
+- Calculated Bioreactor Volume:
+-- Based on Nitrogen removal (HRT): 15,600 Liters.
+-- Based on Phosphorus uptake: 334.80 Liters.
+- Decided on Target Bioreactor Volume: Selected the larger, setting the target volume at 15,600 Liters.
+- Qualitatively Linked to CO2 Capture: Noted how the chosen volume and design support algae growth for CO2 consumption.
+- Quantified Algae Biomass Production: Estimated daily dry Chlorella vulgaris biomass production (e.g., approximately 1.73 kg dry algae/day).
+
+What I Found Interesting Today:
+
+- How choosing a precise number of homes made calculations concrete and highlighted scalability challenges for a single unit.
+- Interconnected Calculations: How N and P removal requirements jointly determined the final bioreactor volume.
+- Biomass as Output: The direct link between nutrient removal and the quantifiable production of algae biomass, connecting wastewater treatment to carbon capture.
+
+What Was Challenging Today:
+
+- Making Initial Assumptions: Deciding on realistic numbers for flow rate and concentrations without specific project data.
+- Visualizing Volume: Translating the calculated 15,600 Liters into a clear mental image of a physical structure.
+
+What I Aim to Do for Day 6:
+
+- Quantify CO2 Capture: Calculate the exact amount of CO2 (in kg/day) my bioreactor is expected to capture, using the daily algae biomass production.
+- Sketch/Estimate Physical Dimensions: Begin to define the physical size and layout (e.g., length, width, height) of the 15,600 Liter flat-panel bioreactor.
