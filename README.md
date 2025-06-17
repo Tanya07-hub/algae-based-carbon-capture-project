@@ -85,7 +85,7 @@ This project remains digital and independently led, but the vision continues to 
 - **Simulation Tools**: Use software like CFD or MATLAB to refine flow, light, and gas transfer designs.  
 - **Deployment Potential**: Develop modular or mobile bioreactor units for low-resource areas or urban rooftops.
 
-> *Although currently unfunded, these efforts guide the ongoing mission to make green technology accessible, scalable, and impactful.*
+> *These efforts guide the ongoing mission to make green technology accessible, scalable, and impactful.*
 
 ---
 
