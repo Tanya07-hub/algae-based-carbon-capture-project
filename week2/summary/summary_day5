@@ -5,16 +5,15 @@ What I Did Today:
 - Designed a single bioreactor unit to support 4 small homes (16 people total).
 - Set Key Design Assumptions:
 -- Daily Wastewater Flow (Q): 2,400 Liters/day.
--- Influent Phosphorus (P_in) & Nitrogen (N_in) Concentrations (your chosen numbers, e.g., 8 mg/L P, 40 mg/L N).
--- Target Removal Efficiency (your chosen percentage, e.g., 90%).
+-- Influent Phosphorus (7mg/L) & Nitrogen (40mg/L) Concentrations
+-- Target Removal Efficiency (95%).
 -- Confirmed HRT (6.5 days) and P Uptake Rate (45.16 mg P L⁻¹ d⁻¹).
 -- Reconfirmed Algae Carbon Content (~50%).
 - Calculated Bioreactor Volume:
 -- Based on Nitrogen removal (HRT): 15,600 Liters.
--- Based on Phosphorus uptake: 334.80 Liters.
+-- Based on Phosphorus uptake: 353.41 Liters.
 - Decided on Target Bioreactor Volume: Selected the larger, setting the target volume at 15,600 Liters.
 - Qualitatively Linked to CO2 Capture: Noted how the chosen volume and design support algae growth for CO2 consumption.
-- Quantified Algae Biomass Production: Estimated daily dry Chlorella vulgaris biomass production (e.g., approximately 1.73 kg dry algae/day).
 
 What I Found Interesting Today:
 
@@ -29,5 +28,4 @@ What Was Challenging Today:
 
 What I Aim to Do for Day 6:
 
-- Quantify CO2 Capture: Calculate the exact amount of CO2 (in kg/day) my bioreactor is expected to capture, using the daily algae biomass production.
-- Sketch/Estimate Physical Dimensions: Begin to define the physical size and layout (e.g., length, width, height) of the 15,600 Liter flat-panel bioreactor.
+- Quantify CO2 Capture and Algae Biomass Production: Calculate the exact amount of CO2 (in kg/day) my bioreactor is expected to capture, using the calculated values of algae biomass production.
