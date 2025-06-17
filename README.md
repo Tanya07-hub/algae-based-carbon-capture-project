@@ -21,6 +21,15 @@ Rather than building physical hardware, I develop a **digital prototype** inspir
 
 This project merges climate science and engineering design to reimagine carbon capture technology through a lens of **accessibility, affordability, and impact**.
 
+## 📊 Key Design Analysis and Quantification 
+
+After detailed mathematical analysis, the conceptual design outlines the following core metrics for the algae-based photobioreactor:
+- **Targeted Bioreactor Volume** - 15,600 Liters
+- **Estimated Dry Algae Biomass Porduction per Day** - 1.6 kg algae/day
+- **Estimated Daily Carbon Dioxide Capture** - 2.9kg C02/day
+
+These calculations demonstrate the potential for a decentralized system to effectively manage wastewater for approximately 16 individuals while simultaneously sequestering nearly 3 kg of C02 daily.
+
 ---
 
 ## 🔍 What You'll Find in This Repository
@@ -84,7 +93,7 @@ This project remains digital and independently led, but the vision continues to 
 
 Thank you for exploring this initiative. Let’s keep designing climate solutions that are rooted in science, driven by purpose, and accessible to all — because **the future belongs to those who build it.**
 
-_Last Updated: June 9, 2025_
+_Last Updated: June 17th, 2025_
 
 
 
