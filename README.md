@@ -5,7 +5,7 @@
 
 ## 🌍 Project Overview
 
-What if we could harness nature’s own engineers — **algae** — to fight climate change and clean water supplies through sustainable design?
+What if we could harness nature’s own engineers - **algae** - to fight climate change and clean water supplies through sustainable design?
 
 This self-directed, 6-week research journey blends **AutoCAD modeling**, **chemical engineering principles**, and **scientific literature** to explore the potential of algae-based photobioreactors for **carbon capture and water purification**.
 
