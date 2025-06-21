@@ -101,8 +101,9 @@ Calculation: 15,600 L * 90% = **14,040 L or 14.04 m^3**
     **Total Calculated System Volume:**
     Sum of Flat Panel Volume 14,040 L + Sum of Airlift Column(s) Volume 1,560 L = **15,600 L**.
 
- **Your Action:** Verify against your initial baseline volume.
- **Your Note:**
+ **Action:** Verify against your initial baseline volume.
+ 
+ **Note:**
     **Verification:** This total calculated volume of **15,600** matches my initial target of 15,600 Liters. This confirms the validity of these conceptual dimensions. 
     It also confirms that the conceptual design precisely meets the calculated capacity needed for the 16 people.
 
