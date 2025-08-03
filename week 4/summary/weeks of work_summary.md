@@ -1,6 +1,6 @@
 # Week 4: The Design Journey — From Concept to Reality
 
-This week's work represents a significant milestone for the project, serving as the core technical documentation for the **Modular Flexible Bio-Panel Integrated Digester (MFBP-ID)** System. While the title suggests a single week's effort, this document is the culmination of **three weeks of intensive research, design, and calculation**, which was necessary to move the project from a general concept to a realistic and viable solution.
+This week's work represents a significant milestone for the project, serving as the core technical documentation for the **Modular Flexible Bio-Panel Integrated Digester (MFBP-ID)** System. While the title suggests a single week's effort, this document is the culmination of **4 weeks of intensive research, design, and calculation**, which was necessary to move the project from a general concept to a realistic and viable solution.
 
 ---
 
